@@ -1,4 +1,4 @@
 Octokitties
 ===========
 
-First sample repository
+First sample repository. **i love the github mascot! Too cute:)**
