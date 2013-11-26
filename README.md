@@ -1,4 +1,4 @@
-Octokitties
+Skittles
 ===========
 
-First sample repository. **i love the github mascot! Too cute:)**
+Entertaining moving objects example featuring yummy graphics.
